@@ -56,22 +56,22 @@ I am a dedicated MERN stack developer with a solid foundation in Node.js and Rea
 1. **Issue Tracker (03/2023 - 04/2023) 📈**
    The issue tracker application is designed for efficient project management. Users can create, update, and delete projects, as well as create and track multiple issues within each project. It provides a comprehensive overview of all issues for better visibility and management.
    - **Tech stack:** Express Js, Node Js, MongoDB, Ejs (For frontend)
-   - [GitHub Repo]([insert_link_here](https://github.com/coding-destini/Issu-Tracker-Backend)) | [Video Link]([insert_link_here](https://youtu.be/Lje_jX7l1-k))
+   - [GitHub Repo](https://github.com/coding-destini/Issu-Tracker-Backend) | [Video Link](https://youtu.be/Lje_jX7l1-k)
 
 2. **MediTone (06/2013 - Present) 🏥**
    MediTone is a healthcare application designed to assist users with medication reminders and emergency alerts. The application provides personalized medication schedules and sends timely notifications via call and message to remind users to take their medications. In case of emergencies, users can quickly alert their doctors through the emergency feature.
    - **Tech stack:** Node Js, Express, Mongo DB, Twilio API
-   - [Video Link]([insert_link_here](https://youtu.be/5OCv5mY0Tok))
+   - [Video Link](https://youtu.be/5OCv5mY0Tok)
 
 3. **Facebook (06/2023 - Present) 👍**
    Developed a Facebook-inspired project encompassing user sign-in and sign-up, like and dislike features, follow and unfollow functionality, complete CRUD operations for posts, and an engaging timeline post feature. Secured user passwords using bcrypt encryption. Currently, focused on integrating the frontend with the feature-rich backend for a seamless user experience.
    - **Tech stack:** Express Js, Node Js, MongoDB, React
-   - [GitHub Repo]([insert_link_here](https://github.com/coding-destini/Facebook_Clone/tree/master)) | [Video Link]([insert_link_here](https://youtu.be/wiF75d3HdDI))
+   - [GitHub Repo](https://github.com/coding-destini/Facebook_Clone/tree/master) | [Video Link](https://youtu.be/wiF75d3HdDI)
 
 4. **Meal Website (01/2023 - 02/2023) 🍔**
    A meal API project that allows users to access information about meals, such as recipes, nutritional information, and ingredient lists. The project typically involves defining endpoints for users to access the data, creating the underlying infrastructure to support the endpoints, and documenting the API to make it available to users.
    - **Tech stack:** HTML, CSS, Javascript, Bootstrap
-   - [GitHub Repo]([insert_link_here](https://github.com/coding-destini/Meal-Website-Using-ApI)) | [Video Link]([insert_link_here](https://youtu.be/qxh-jKylI-U))
+   - [GitHub Repo](https://github.com/coding-destini/Meal-Website-Using-ApI) | [Video Link](https://youtu.be/qxh-jKylI-U])
 
 ## Certificates 📜
 1. Java (09/2022 - 10/2022)
